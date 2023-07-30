@@ -12,7 +12,7 @@ import tailwind from "./assets/images/Skills/tailwind.png"
 import next from "./assets/images/Skills/next.png"
 
 import services_logo2 from "./assets/images/Services/logo2.png";
-import netflix from "./assets/images/projects/netflix.png";
+import Netflix from "./assets/images/projects/netflix.png";
 import blockchains from "./assets/images/projects/ngo.png";
 import statics from "./assets/images/projects/static.png";
 // import icons from react-icons
@@ -146,7 +146,7 @@ export const content = {
     project_content: [
       {
         title: "Netflix with Tailwind",
-        image: netflix,
+        image: Netflix,
         link:"https://github.com/Rohit112003/netflix_clone_with_tailwind"
       },
       {
