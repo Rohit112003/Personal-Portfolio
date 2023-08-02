@@ -12,9 +12,9 @@ import tailwind from "./assets/images/Skills/tailwind.png"
 import next from "./assets/images/Skills/next.png"
 
 import services_logo2 from "./assets/images/Services/logo2.png";
-import Netflix from "./assets/images/projects/netflix.png";
-import blockchains from "./assets/images/projects/ngo.png";
-import statics from "./assets/images/projects/static.png";
+import Netflix from "./assets/images/Projects/netflix.png";
+import blockchains from "./assets/images/Projects/ngo.png";
+import statics from "./assets/images/Projects/static.png";
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
