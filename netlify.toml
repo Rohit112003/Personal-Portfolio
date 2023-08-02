@@ -1,3 +1,0 @@
-[build]
-command = "vite"  # Change this to use the development build command
-publish = "dist"
