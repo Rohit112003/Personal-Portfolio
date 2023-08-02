@@ -164,7 +164,7 @@ export const content = {
   
   
   Contact: {
-    title: "Contect Me",
+    title: "Contact Me",
     subtitle: "GET IN TOUCH",
     social_media: [
       {
